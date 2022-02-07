@@ -3,6 +3,22 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "isShellCommand": true,
+  "args": [
+    "--harmony"
+  ],
+  "tasks": [
+    {
+      "taskName": "runFile",
+      "isTestCommand": true,
+      "suppressTaskName": true,
+      "showOutput": "always",
+      "problemMatcher": "$jshint",
+      "args": [
+        "${file}"
+      ]
+    }
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

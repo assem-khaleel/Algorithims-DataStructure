@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae99ac94-f1b7-4a79-bd15-46e53ab8c0d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anagrams/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/anagrams/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anagrams/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/anagrams/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bst/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/bst/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bst/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/bst/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitalize/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/capitalize/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitalize/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/capitalize/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chunk/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/chunk/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chunk/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/chunk/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circular/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/circular/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circular/linkedlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/circular/linkedlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circular/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/circular/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/events/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/events/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/events/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fib/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/fib/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fizzbuzz/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fizzbuzz/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fizzbuzz/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/fizzbuzz/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fromlast/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fromlast/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fromlast/linkedlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/fromlast/linkedlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fromlast/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/fromlast/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/levelwidth/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/levelwidth/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/levelwidth/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/levelwidth/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/levelwidth/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/levelwidth/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedlist/directions.html" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlist/directions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedlist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedlist/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlist/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrix/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrix/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maxchar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/maxchar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maxchar/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/maxchar/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midpoint/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/midpoint/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midpoint/linkedlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/midpoint/linkedlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midpoint/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/midpoint/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/palindrome/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/palindrome/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/palindrome/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/palindrome/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramid/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pyramid/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramid/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/pyramid/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qfroms/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/qfroms/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qfroms/stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/qfroms/stack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qfroms/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/qfroms/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/queue/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/queue/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverseint/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/reverseint/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverseint/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/reverseint/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reversestring/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/reversestring/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reversestring/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/reversestring/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/stack/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/stack/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/steps/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/steps/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/steps/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/steps/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tree/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tree/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validate/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/validate/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validate/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/validate/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validate/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/validate/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vowels/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vowels/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vowels/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/vowels/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weave/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/weave/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weave/queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/weave/queue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weave/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/weave/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/01/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/01/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/01/diagrams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/01/diagrams.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/02/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/02/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/02/diagrams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/02/diagrams.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/03/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/03/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/03/diagrams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/03/diagrams.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/04/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/04/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/04/diagrams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/04/diagrams.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/05/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/05/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/05/diagrams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/05/diagrams.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/06/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/06/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/06/diagrams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/06/diagrams.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/07/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/07/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/07/diagrams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/07/diagrams.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/08/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/08/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/08/diagrams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/08/diagrams.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/09/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/09/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/09/diagrams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/09/diagrams.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/10/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/10/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagrams/10/diagrams.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diagrams/10/diagrams.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/anagrams/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/anagrams/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/anagrams/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/anagrams/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/bst/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/bst/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/bst/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/bst/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/capitalize/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/capitalize/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/capitalize/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/capitalize/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/chunk/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/chunk/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/chunk/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/chunk/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/circular/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/circular/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/circular/linkedlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/circular/linkedlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/circular/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/circular/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/events/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/events/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/events/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/events/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/events/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/events/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/fib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/fib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/fib/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/fib/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/fizzbuzz/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/fizzbuzz/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/fizzbuzz/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/fizzbuzz/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/fromlast/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/fromlast/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/fromlast/linkedlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/fromlast/linkedlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/fromlast/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/fromlast/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/levelwidth/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/levelwidth/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/levelwidth/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/levelwidth/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/levelwidth/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/levelwidth/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/linkedlist/directions.html" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/linkedlist/directions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/linkedlist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/linkedlist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/linkedlist/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/linkedlist/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/matrix/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/matrix/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/matrix/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/matrix/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/maxchar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/maxchar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/maxchar/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/maxchar/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/midpoint/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/midpoint/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/midpoint/linkedlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/midpoint/linkedlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/midpoint/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/midpoint/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/palindrome/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/palindrome/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/palindrome/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/palindrome/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/pyramid/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/pyramid/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/pyramid/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/pyramid/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/qfroms/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/qfroms/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/qfroms/stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/qfroms/stack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/qfroms/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/qfroms/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/queue/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/queue/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/queue/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/queue/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/reverseint/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/reverseint/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/reverseint/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/reverseint/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/reversestring/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/reversestring/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/reversestring/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/reversestring/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/sorting/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/sorting/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/sorting/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/sorting/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/stack/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/stack/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/stack/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/stack/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/steps/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/steps/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/steps/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/steps/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/tree/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/tree/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/tree/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/tree/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/validate/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/validate/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/validate/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/validate/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/validate/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/validate/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/vowels/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/vowels/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/vowels/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/vowels/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/weave/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/weave/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/weave/queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/weave/queue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/weave/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/weave/test.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20SDUyTe2ApXD0FJSbjw6Y83pID" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae99ac94-f1b7-4a79-bd15-46e53ab8c0d3" name="Default Changelist" comment="" />
+      <created>1636029114846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636029114846</updated>
+      <workItem from="1636029116176" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1636029124352">
+      <screen x="0" y="387" width="3200" height="693" />
+    </state>
+    <state x="743" y="297" width="424" height="484" key="FileChooserDialogImpl/0.387.3200.693@0.387.3200.693" timestamp="1636029124352" />
+  </component>
+</project>
